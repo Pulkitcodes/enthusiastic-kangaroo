@@ -34,7 +34,7 @@ sections:
         content: >
           Our transparent annual warranties cover most repairs, renovations, and
           appliances, which means your peace of mind is guaranteed.
-      - title: Service Title
+      - title: Your way or the highway
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
