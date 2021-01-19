@@ -23,7 +23,7 @@ sections:
     title: Why choose us
     subtitle: Four reasons to work with us
     col_number: three
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: Lightening fast
         content: >
