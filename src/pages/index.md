@@ -30,7 +30,7 @@ sections:
           Our quick delivery time helps you save yours, so you can spend your
           life doing stuff you truly care about. Got a Bonnie Situation ? We are
           your Mr. Wolf.
-        image: images/lighting.svg
+        image: images/lighting_1.svg
       - title: Safety and security
         content: >
           Our transparent annual warranties cover most repairs, renovations, and
