@@ -59,7 +59,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Our customers love us
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     col_number: three
     testimonials:
       - author: Sean Salazar
