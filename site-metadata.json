@@ -54,24 +54,28 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/",
                 "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
+                "icon_class": "fa-facebook",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/",
                 "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
+                "icon_class": "fa-youtube",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "links": [
             {
                 "label": "Home",
-                "url": "lorem-ipsum",
+                "url": "/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -80,7 +84,7 @@
             },
             {
                 "label": "About",
-                "url": "lorem-ipsum",
+                "url": "/about/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -89,7 +93,7 @@
             },
             {
                 "label": "Services",
-                "url": "lorem-ipsum",
+                "url": "/services/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -98,7 +102,7 @@
             },
             {
                 "label": "Blog",
-                "url": "lorem-ipsum",
+                "url": "/blog/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -107,7 +111,7 @@
             },
             {
                 "label": "Contact",
-                "url": "lorem-ipsum",
+                "url": "/contact/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
