@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Why us
-    subtitle: An optional subtitle of the section
+    subtitle: Because
     col_number: two
     is_numbered: true
     grid_items:
