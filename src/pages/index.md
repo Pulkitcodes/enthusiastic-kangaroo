@@ -26,10 +26,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Lightening fast
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our quick delivery time helps you save yours, so you can spend your
+          life doing stuff you were born to do. So weather it is a plumbing
+          emergency or a job gone wrong that needs to be fixed before your
+          girlfriend or wife comes home! You know who to call.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
