@@ -91,7 +91,7 @@
                 "type": "action"
             },
             {
-                "label": "blog",
+                "label": "blogservices",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
