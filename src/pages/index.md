@@ -30,7 +30,7 @@ sections:
           Our quick delivery time helps you save yours, so you can spend your
           life doing stuff you truly care about. Got a Bonnie Situation ? We are
           your Mr. Wolf.
-      - title: Service Title
+      - title: ''
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
