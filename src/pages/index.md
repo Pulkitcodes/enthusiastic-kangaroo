@@ -51,7 +51,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
-    title: All men must serve
+    title: Our Services
     subtitle: Valar Dohaeris
     projects_number: 6
     view_all_label: View All
