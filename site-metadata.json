@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "A portfolio theme with a blog",
     "color_scheme": "light",
     "accent_color": "violet",
     "header": {
@@ -116,5 +116,6 @@
             }
         ]
     },
-    "title": "HomeServiceWhiz"
+    "title": "HomeServiceWhiz",
+    "favicon": "images/Asset 8.png"
 }
