@@ -53,7 +53,7 @@ sections:
     layout_style: tiles
     title: Our Services
     subtitle: "Valar Dohaeris -\_All men must serve!"
-    projects_number: 6
+    projects_number: 8
     view_all_label: View All
     view_all_url: portfolio
   - section_id: testimonials
