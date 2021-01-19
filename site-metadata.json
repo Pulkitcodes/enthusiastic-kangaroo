@@ -73,7 +73,7 @@
         ],
         "links": [
             {
-                "label": "home",
+                "label": "Home",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
