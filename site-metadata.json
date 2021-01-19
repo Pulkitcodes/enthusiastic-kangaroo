@@ -109,7 +109,7 @@
                 "type": "action"
             },
             {
-                "label": "contact",
+                "label": "Contact",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
