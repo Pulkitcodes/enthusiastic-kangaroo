@@ -1,6 +1,6 @@
 ---
 title: Services
 subtitle: ''
-layout_style: tiles
+layout_style: mosaic
 template: portfolio
 ---
