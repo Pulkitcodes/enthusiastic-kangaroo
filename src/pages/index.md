@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'House Remodeling, Renovation and Repair Experts'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      One Stop Solution For All Your House Repair Problems.
     actions:
       - label: Let's talk
         url: /contact
