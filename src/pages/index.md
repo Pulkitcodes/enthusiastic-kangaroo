@@ -47,6 +47,7 @@ sections:
           When **A**rtists (people who gave their heart), **W**orkers (execution
           specialists) and **E**xperts (been there done that) come together
           \*\****AWE ***\*\*is only a matter of time.
+        image: images/home-warranties.jpg
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
