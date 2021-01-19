@@ -93,7 +93,7 @@
             },
             {
                 "label": "Services",
-                "url": "/service/",
+                "url": "/services/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
