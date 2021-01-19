@@ -20,7 +20,7 @@ sections:
         type: action
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Why us
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
