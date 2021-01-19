@@ -1,7 +1,7 @@
 {
     "description": "A portfolio theme with a blog",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "violet",
     "header": {
         "title": "Hs-whiz",
         "has_nav": true,
@@ -31,7 +31,9 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/WhatsApp Image 2020-12-08 at 01.56.31.jpeg",
+        "logo_img_alt": "home service whiz"
     },
     "footer": {
         "content": "© HomeServiceWhiz All rights reserved.",
@@ -55,7 +57,7 @@
                 "label": "Dribbble",
                 "url": "https://dribbble.com/",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
+                "icon_class": "twitter",
                 "new_window": true
             },
             {
@@ -114,5 +116,5 @@
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "HomeServiceWhiz"
 }
