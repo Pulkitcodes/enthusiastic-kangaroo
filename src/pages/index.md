@@ -11,7 +11,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: 'Schedule '
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
