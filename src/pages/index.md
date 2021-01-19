@@ -28,9 +28,8 @@ sections:
       - title: Lightening fast
         content: >
           Our quick delivery time helps you save yours, so you can spend your
-          life doing stuff you were born to do. So weather it is a plumbing
-          emergency or a job gone wrong that needs to be fixed before your
-          girlfriend or wife comes home! You know who to reach out to.
+          life doing stuff you truly care about. Got a Bonnie Situation ? We are
+          your Mr. Wolf.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
