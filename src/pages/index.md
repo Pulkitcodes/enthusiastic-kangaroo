@@ -20,7 +20,7 @@ sections:
         type: action
   - section_id: Whyus
     type: section_grid
-    title: 'Why choose '
+    title: Why choose us
     subtitle: ''
     col_number: two
     is_numbered: true
