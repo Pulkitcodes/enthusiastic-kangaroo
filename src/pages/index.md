@@ -35,6 +35,7 @@ sections:
         content: >
           Our transparent annual warranties cover most repairs, renovations, and
           appliances, which means your peace of mind is guaranteed.
+        image: images/Consultation.svg
       - title: Your way or the highway
         content: >
           Our No BS payment plans allow you to pay over time without any
