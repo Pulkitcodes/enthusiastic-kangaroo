@@ -66,8 +66,8 @@
                 "label": "You Tube",
                 "url": "",
                 "style": "icon",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
+                "icon_class": "",
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             },
