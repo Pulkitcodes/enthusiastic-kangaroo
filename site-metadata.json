@@ -82,7 +82,7 @@
                 "type": "action"
             },
             {
-                "label": "about",
+                "label": "About",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
