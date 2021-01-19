@@ -8,3 +8,4 @@ template: project
 thumb_image: images/AdobeStock_127920403_Preview.jpeg
 image: images/square-lavender.jpeg
 ---
+## Let's make your home an expression of your individuality
