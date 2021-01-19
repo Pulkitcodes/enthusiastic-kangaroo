@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'House Remodeling, Renovation and Repair Experts'
+    title: House Remodeling Experts
     content: |
       One Stop Solution For All Your House Repair Problems.
     actions:
