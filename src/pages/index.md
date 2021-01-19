@@ -50,7 +50,7 @@ sections:
         image: images/home-warranties.jpg
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: All men must serve
     subtitle: Valar Dohaeris
     projects_number: 6
