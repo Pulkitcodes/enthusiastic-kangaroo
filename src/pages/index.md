@@ -18,38 +18,42 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: services
+  - section_id: Whyus
     type: section_grid
-    title: Why us
-    subtitle: ''
+    title: Why choose us
+    subtitle: Four reasons to work with us
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Lightening fast
         content: >
           Our quick delivery time helps you save yours, so you can spend your
           life doing stuff you truly care about. Got a Bonnie Situation ? We are
           your Mr. Wolf.
+        image: images/smiling-aluminum.jpeg
       - title: Safety and security
         content: >
           Our transparent annual warranties cover most repairs, renovations, and
           appliances, which means your peace of mind is guaranteed.
+        image: images/Bathtub replacemenr.jpg
       - title: Your way or the highway
         content: >
           Our No BS payment plans allow you to pay over time without any
           additional charges. Book now and pay later! (As if the reasons stated
           were already not enough)
+        image: images/garage-door.jpg
       - title: Awe and Wonder
         content: >
           When **A**rtists (people who gave their heart), **W**orkers (execution
           specialists) and **E**xperts (been there done that) come together
           \*\****AWE ***\*\*is only a matter of time.
+        image: images/home-warranties.jpg
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
-    title: All men must serve
-    subtitle: Valar Dohaeris
-    projects_number: 6
+    layout_style: tiles
+    title: Our Services
+    subtitle: "Valar Dohaeris -\_All men must serve!"
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - section_id: testimonials
