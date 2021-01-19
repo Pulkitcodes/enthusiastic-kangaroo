@@ -22,7 +22,7 @@ sections:
     type: section_grid
     title: Why choose us
     subtitle: Four reasons to work with us
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - title: Lightening fast
