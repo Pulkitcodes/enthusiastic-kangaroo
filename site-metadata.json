@@ -17,18 +17,13 @@
                 "style": "link"
             },
             {
-                "label": "services",
+                "label": "Services",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
@@ -82,7 +77,7 @@
                 "type": "action"
             },
             {
-                "label": "About Us",
+                "label": "About",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
