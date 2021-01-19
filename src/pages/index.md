@@ -31,10 +31,9 @@ sections:
           life doing stuff you truly care about. Got a Bonnie Situation ? We are
           your Mr. Wolf.
       - title: ''
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Our transparent annual warranties cover most repairs, renovations, and
+          appliances, which means your peace of mind is guaranteed.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
