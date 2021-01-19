@@ -39,7 +39,7 @@ sections:
           Our No BS payment plans allow you to pay over time without any
           additional charges. Book now and pay later! (As if the reasons stated
           were already not enough)
-      - title: Service title
+      - title: Happiness and Trust
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
