@@ -21,7 +21,7 @@ sections:
   - section_id: Whyus
     type: section_grid
     title: Why choose us
-    subtitle: ''
+    subtitle: Four reasons to work with us
     col_number: two
     is_numbered: true
     grid_items:
