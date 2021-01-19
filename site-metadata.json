@@ -17,7 +17,7 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "services",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -39,7 +39,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "© HomeServiceWhiz All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -69,6 +69,53 @@
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
+            }
+        ],
+        "links": [
+            {
+                "label": "Home",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "About Us",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Services",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Blog",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Contact",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
