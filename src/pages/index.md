@@ -84,7 +84,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Get Inspired
-    subtitle: An optional subtitle of the section
+    subtitle: 'Latest trends, ideas, DIY guides and more'
     posts_number: 3
     col_number: three
     actions:
