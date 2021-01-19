@@ -41,6 +41,7 @@ sections:
           Our No BS payment plans allow you to pay over time without any
           additional charges. Book now and pay later! (As if the reasons stated
           were already not enough)
+        image: images/Deliver.svg
       - title: Awe and Wonder
         content: >
           When **A**rtists (people who gave their heart), **W**orkers (execution
