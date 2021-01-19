@@ -35,10 +35,10 @@ sections:
           Our transparent annual warranties cover most repairs, renovations, and
           appliances, which means your peace of mind is guaranteed.
       - title: Your way or the highway
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Our No BS payment plans allow you to pay over time without any
+          additional charges. Book now and pay later! (As if the reasons stated
+          were already not enough)
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
