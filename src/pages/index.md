@@ -18,7 +18,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: services
+  - section_id: Whyus
     type: section_grid
     title: Why us
     subtitle: ''
