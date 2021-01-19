@@ -111,7 +111,7 @@
             },
             {
                 "label": "Contact",
-                "url": "lorem-ipsum",
+                "url": "/about/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
